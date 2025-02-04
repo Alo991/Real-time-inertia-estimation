@@ -1,7 +1,8 @@
 Real-time inertia estimation via ARMAX model representation and synchrophasor measurements
 
 
-Authors: Alexander Sanchez-Ocampo, Mario R. A. Paternina, José Manuel Ramos-Guerrero,
+Authors: 
+Alexander Sanchez-Ocampo, Mario R. A. Paternina, José Manuel Ramos-Guerrero,
 Gabriel E. Mejia-Ruiz, Juan M. Ramirez, Lucas Lugnani, Felix Munguia, 
 Alejandro Zamora-Mendez, and Juan R. Rodriguez
 
@@ -20,3 +21,20 @@ is achieved with a relative error ranging from 0.1% to 7%, even
 under noisy conditions and atypical measurement values. The
 literature reviewed does not report any estimation method that
 is more accurate than the one proposed in this work.
+
+
+Requierements:
+
+1. Matlab: 2021a
+2. PMU information: IP, Port, IDcode
+3. Packages: Instrument Control Toolbox
+
+Instructions
+
+1. Unpack the download archive.
+2. Open the file - Main_H_Estimation_V3.m
+3. Update the PMU information.
+4. In Matlab, execute the file called Main_H_Estimation_V3.m to enable PMU data reading.
+5. To finish the reading process, it is necessary to press ctrl+c
+
+
