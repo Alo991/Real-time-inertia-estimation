@@ -32,9 +32,9 @@ Requierements:
 Instructions
 
 1. Unpack the download archive.
-2. Open the file - Main_H_Estimation_V2.m
+2. Open the file - Main_H_Estimation.m
 3. Update the PMU information.
-4. In Matlab, execute the file called Main_H_Estimation_V2.m to enable PMU data reading.
+4. In Matlab, execute the file called Main_H_Estimation.m to enable PMU data reading.
 5. To finish the reading process, it is necessary to press ctrl+c
 
 
