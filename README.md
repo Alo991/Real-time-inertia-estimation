@@ -31,9 +31,9 @@ Requierements:
 
 Instructions
 
-1. Unpack the download archive.
+1. Downloading PMU_Inertia Estimation files
 2. Open the file - Main_H_Estimation.m
-3. Update the PMU information.
+3. Update the PMU information - (IP, Port, IDcode)
 4. In Matlab, execute the file called Main_H_Estimation.m to enable PMU data reading.
 5. To finish the reading process, it is necessary to press ctrl+c
 
